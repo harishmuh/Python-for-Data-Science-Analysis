@@ -1,4 +1,5 @@
 # Python-for-Data-Science-Analysis
 Collection of tutorials for data analysis with Python 
 
-* Matplotlib VS Seaborn - data visualization tutorials to build boxplot, violin plot, swarm plot, pairplot etc [Link](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Visualization_Matplotlib_VS_Seaborn.ipynb) 
+* Python VS R - Which programming language fits me? [(Click here)](https://github.com/harishmuh/Python-VS-R-comparison-article)
+* Matplotlib VS Seaborn - How do you build a boxplot, violin plot, swarm plot, pairplot, etc? [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Visualization_Matplotlib_VS_Seaborn.ipynb) 
