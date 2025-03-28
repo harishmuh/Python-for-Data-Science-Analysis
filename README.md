@@ -1,4 +1,4 @@
-# Python-for-Data-Science-Analysis
+# Python for Data Analysis
 Collection of tutorials for data analysis with Python 
 
 * Python VS R - Which programming language fits me? [(Click here)](https://github.com/harishmuh/Python-VS-R-comparison-article)
