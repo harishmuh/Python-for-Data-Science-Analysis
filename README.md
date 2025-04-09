@@ -5,6 +5,7 @@ Collection of tutorials for data analysis with Python
 * Introduction to Pandas: Series, DataFrames, Missing Data, GroupBy, Combining datasets (merging, joining, and concatenating), operations, data input and output [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas.ipynb)
 * Pandas exercise - SF Salaries [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_SF_Salaries.ipynb)
 * Matplotlib VS Seaborn - How do you build a boxplot, violin plot, swarm plot, pairplot, etc? [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Visualization_Matplotlib_VS_Seaborn.ipynb)
+* Matplotlib overview and tutorials [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Matplotlib_tutorials.ipynb)
 
 
 
