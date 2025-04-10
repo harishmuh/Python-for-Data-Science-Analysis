@@ -8,14 +8,15 @@ Collection of tutorials for data analysis with Python
 ## Data Visualization
 * Matplotlib VS Seaborn - How do you build a boxplot, violin plot, swarm plot, pairplot, etc? [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Visualization_Matplotlib_VS_Seaborn.ipynb)
 * Matplotlib overview and tutorial [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Matplotlib_tutorials.ipynb)
-* Matplotlib tutorial - Advance topic [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Matplotlib_tutorial_advanced.ipynb)
-* Matplotlib exercise and solution [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Matplotlib_exercise.ipynb)
+* Matplotlib tutorial - advance topic [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Matplotlib_tutorial_advanced.ipynb)
+* Matplotlib exercises and solutions [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Matplotlib_exercise.ipynb)
 * Seaborn distribution plot tutorial [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_Distribution%20plot%20tutorial.ipynb)
 * Seaborn categorical data plot (Barplot, countplot, boxplot, etc) tutorial [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_Categorical_data_plots_tutorial.ipynb)
 * Seaborn matrix plot (heatmap & clustermap) tutorial [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_matrix_plots_(heatmap_and_clustermap).ipynb)
 * Seaborn grid plot (PairGrid, PairPlot, JointGrid, etc) tutorial [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_Grid.ipynb)
 * Seaborn regression plot [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_Regression_plot.ipynb)
 * Seaborn modifying style and color [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_modifying_style_and_color.ipynb)
+* Seaborn exercises and solutions [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_exercises_and_solutions.ipynb)
 
 
 
