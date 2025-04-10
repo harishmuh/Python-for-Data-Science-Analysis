@@ -11,8 +11,9 @@ Collection of tutorials for data analysis with Python
 * Matplotlib tutorial - Advance topic [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Matplotlib_tutorial_advanced.ipynb)
 * Matplotlib exercise and solution [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Matplotlib_exercise.ipynb)
 * Seaborn distribution plot tutorial [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_Distribution%20plot%20tutorial.ipynb)
-* Seaborn categorical data plot tutorial [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_Categorical_data_plots_tutorial.ipynb)
-* Seaborn matrix plot (heatmap & clustermap) tutorial [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_matrix_plots_(heatmap_and_clustermap).ipynb) 
+* Seaborn categorical data plot (Barplot, countplot, boxplot, etc) tutorial [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_Categorical_data_plots_tutorial.ipynb)
+* Seaborn matrix plot (heatmap & clustermap) tutorial [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_matrix_plots_(heatmap_and_clustermap).ipynb)
+* Seaborn Grid plot (PairGrid, PairPlot, JointGrid, etc) tutorial [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_Grid.ipynb)
 
 
 
