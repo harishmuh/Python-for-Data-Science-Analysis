@@ -15,6 +15,7 @@ Collection of tutorials for data analysis with Python
 * Seaborn matrix plot (heatmap & clustermap) tutorial [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_matrix_plots_(heatmap_and_clustermap).ipynb)
 * Seaborn grid plot (PairGrid, PairPlot, JointGrid, etc) tutorial [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_Grid.ipynb)
 * Seaborn regression plot [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_Regression_plot.ipynb)
+* Seaborn modifying style and color [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_modifying_style_and_color.ipynb)
 
 
 
