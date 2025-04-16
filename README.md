@@ -10,6 +10,7 @@ Collection of tutorials for data analysis with Python
 * Matplotlib overview and tutorial [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Matplotlib_tutorials.ipynb)
 * Matplotlib tutorial - advance topic [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Matplotlib_tutorial_advanced.ipynb)
 * Matplotlib exercises and solutions [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Matplotlib_exercise.ipynb)
+* Pandas (built-in) for data visualization [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_built_in_function_for_visualization.ipynb)
 * Seaborn distribution plot tutorial [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_Distribution%20plot%20tutorial.ipynb)
 * Seaborn categorical data plot (Barplot, countplot, boxplot, etc) tutorial [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_Categorical_data_plots_tutorial.ipynb)
 * Seaborn matrix plot (heatmap & clustermap) tutorial [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_matrix_plots_(heatmap_and_clustermap).ipynb)
