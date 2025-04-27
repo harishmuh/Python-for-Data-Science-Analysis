@@ -6,6 +6,9 @@ A collection of tutorials for data analysis with Python.
 * Introduction to Pandas: Series, DataFrames, Missing Data, GroupBy, Combining datasets (merging, joining, and concatenating), operations, data input and output [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas.ipynb)
 * Pandas exercise - SF Salaries [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_SF_Salaries.ipynb)
 
+## Data Wrangling
+* Pandas exercise: Data wrangling and merging data  [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_data_wrangling_merging_table.ipynb)
+
 
 ## Data Visualization
 * Pandas (built-in) for data visualization [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_built_in_function_for_visualization.ipynb)
