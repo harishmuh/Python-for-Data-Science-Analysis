@@ -3,8 +3,11 @@ A collection of tutorials for data analysis with Python.
 
 * Python VS R - Which programming language fits me? → [(Click here)](https://github.com/harishmuh/Python-VS-R-comparison-article)
 * Handling external files (open txt., CSV., and json files.) and errors using Google Colab → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Handling_external_files_and_errors_google_colab.ipynb)
+* Introduction to Numpy → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Numpy_tutorial.ipynb)
 * Introduction to Pandas: Series, DataFrames, Missing Data, GroupBy, Combining datasets (merging, joining, and concatenating), operations, data input and output → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas.ipynb)
 * Pandas exercise - SF Salaries → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_SF_Salaries.ipynb)
+
+
 
 ## Data Wrangling
 * Pandas exercise: Data wrangling and merging data →  [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_data_wrangling_merging_table.ipynb)
