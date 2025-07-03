@@ -1,5 +1,8 @@
-# Python for Data Analysis
-A collection of tutorials for data analysis with Python. 
+# 🎓 Python for Data Analysis 
+
+Hello, data enthusiasts! 👋
+
+Welcome to my precious collection of tutorials for data analysis. This repository contains notebook tutorials to learn data analysis for beginners. 
 
 ## Tools for Data Analysis: Python programming, SQL, VScode, Jupyter notebook, and Google Colab
 * Python VS R - Which programming language fits me? → [(Click here)](https://github.com/harishmuh/Python-VS-R-comparison-article)
@@ -30,7 +33,18 @@ A collection of tutorials for data analysis with Python.
 * Seaborn modifying style and color → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_modifying_style_and_color.ipynb)
 * Seaborn exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_exercises_and_solutions.ipynb)
 
+## Statistics
+* under construction (^_^)
+
+
 ## Portfolio of data analytics projects
 * Client/customer centric and marketing analytics → [Open portfolio](https://github.com/harishmuh/data_analyst_projects/tree/main)
 * Healthcare analytics → [Open portfolio](https://github.com/harishmuh/data_analyst_projects/tree/main)
 * Data visualization/Dashboards → [Open dashboard portfolio](https://github.com/harishmuh/data_analyst_projects/tree/main)
+
+---
+
+### ⭐ Support & Connect  
+If you find these tutorials helpful, feel free to **star the repositories** ⭐ and share them with others! 🚀  
+
+Happy learning! 😊
