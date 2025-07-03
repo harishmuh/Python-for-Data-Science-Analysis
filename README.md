@@ -3,8 +3,8 @@ A collection of tutorials for data analysis with Python.
 
 ## Tools for Data Analysis: Python programming, SQL, VScode, Jupyter notebook, and Google Colab
 * Python VS R - Which programming language fits me? → [(Click here)](https://github.com/harishmuh/Python-VS-R-comparison-article)
-* Complete fundamental Python tutorial for beginners [repository] → [(Click here)](https://github.com/harishmuh/Python-simple-tutorials)
-* Complete SQL tutorial for beginners [repository] → [(Click here)](https://github.com/harishmuh/SQL_challenges)  
+* Complete fundamental Python programming tutorial for beginners [repository] → [(Click here)](https://github.com/harishmuh/Python-simple-tutorials)
+* Complete fundamental SQL tutorial for beginners [repository] → [(Click here)](https://github.com/harishmuh/SQL_challenges)  
 * Google Colab: Handling external files (open txt., CSV., and json files.) and errors → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Handling_external_files_and_errors_google_colab.ipynb)
 
 
