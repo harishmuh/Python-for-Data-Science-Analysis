@@ -1,16 +1,19 @@
 # Python for Data Analysis
 A collection of tutorials for data analysis with Python. 
 
+## Tools for Data Analysis: Python programming, SQL, VScode, Jupyter notebook, and Google Colab
 * Python VS R - Which programming language fits me? → [(Click here)](https://github.com/harishmuh/Python-VS-R-comparison-article)
-* Handling external files (open txt., CSV., and json files.) and errors using Google Colab → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Handling_external_files_and_errors_google_colab.ipynb)
+* Complete fundamental Python tutorial for beginners [repository] → [(Click here)](https://github.com/harishmuh/Python-simple-tutorials)
+* Complete SQL tutorial for beginners [repository] → [(Click here)](https://github.com/harishmuh/SQL_challenges)  
+* Google Colab: Handling external files (open txt., CSV., and json files.) and errors → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Handling_external_files_and_errors_google_colab.ipynb)
+
+
+## Data Wrangling with Numpy and Pandas
 * Introduction to Numpy → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Numpy_tutorial.ipynb)
-* Introduction to Pandas: Series, DataFrames, Missing Data, GroupBy, Combining datasets (merging, joining, and concatenating), operations, data input and output → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas.ipynb)
-* Pandas exercise - SF Salaries → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_SF_Salaries.ipynb)
-
-
-
-## Data Wrangling
+* Introduction to Pandas: Reading files from many formats, Creating a DataFrame, Indexing, selection, and filtering → [Click here](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Pandas_tutorial.ipynb)
+* Introduction to Pandas: DataFrames, Missing Data, GroupBy, Combining datasets (merging, joining, and concatenating), operations, data input and output → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas.ipynb)
 * Pandas exercise: Data wrangling and merging data →  [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_data_wrangling_merging_table.ipynb)
+* Pandas exercise - SF Salaries → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_SF_Salaries.ipynb)
 
 
 ## Data Visualization
@@ -26,9 +29,6 @@ A collection of tutorials for data analysis with Python.
 * Seaborn regression plot → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_Regression_plot.ipynb)
 * Seaborn modifying style and color → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_modifying_style_and_color.ipynb)
 * Seaborn exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_exercises_and_solutions.ipynb)
-
-
-
 
 ## Portfolio of data analytics projects
 * Client/customer centric and marketing analytics → [Open portfolio](https://github.com/harishmuh/data_analyst_projects/tree/main)
