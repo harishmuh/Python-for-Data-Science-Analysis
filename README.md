@@ -16,7 +16,7 @@ A collection of tutorials for data analysis with Python.
 * Pandas exercise - SF Salaries → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_SF_Salaries.ipynb)
 
 
-## Data Visualization
+## Data Visualization with Matplotlib and Seaborn
 * Pandas (built-in) for data visualization → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_built_in_function_for_visualization.ipynb)
 * Matplotlib VS Seaborn - How do you build a boxplot, violin plot, swarm plot, pairplot, etc? → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Visualization_Matplotlib_VS_Seaborn.ipynb)
 * Matplotlib overview and tutorial → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Matplotlib_tutorials.ipynb)
