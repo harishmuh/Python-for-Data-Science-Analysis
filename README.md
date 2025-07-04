@@ -13,8 +13,10 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 
 ## Data Wrangling with Numpy and Pandas
 * Introduction to Numpy → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Numpy_tutorial.ipynb)
-* Introduction to Pandas: Reading files from many formats, Creating a DataFrame, Indexing, selection, and filtering → [Click here](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Pandas_tutorial.ipynb)
-* Introduction to Pandas: DataFrames, Missing Data, GroupBy, Combining datasets (merging, joining, and concatenating), operations, data input and output → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas.ipynb)
+* Introduction to Pandas I: Reading files from many formats, Creating a DataFrame, Indexing, selection, and filtering → [Click here](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Pandas_tutorial.ipynb)
+* Introduction to Pandas: Data frame, Missing Data, GroupBy, Combining datasets (merging, joining, and concatenating), operations, data input and output → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas.ipynb)
+* Introduction to Pandas II: Data frame inspection, data cleaning, and sorting →  [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_pandas_II.ipynb)
+* Introduction to Pandas III: Aggregation, GroupBy, reshaping, and joining data →  [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Pandas_III.ipynb)
 * Pandas exercise: Data wrangling and merging data →  [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_data_wrangling_merging_table.ipynb)
 * Pandas exercise - SF Salaries → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_SF_Salaries.ipynb)
 
