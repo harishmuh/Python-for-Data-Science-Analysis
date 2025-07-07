@@ -13,6 +13,7 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 
 ## Data Wrangling with Numpy and Pandas
 * Introduction to Numpy → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Numpy_tutorial.ipynb)
+* Numpy exercise → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Numpy_exercise.ipynb)
 * Introduction to Pandas I: Reading files from many formats, Creating a DataFrame, Indexing, selection, and filtering → [Click here](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Pandas_tutorial.ipynb)
 * Introduction to Pandas: Data frame, Missing Data, GroupBy, Combining datasets (merging, joining, and concatenating), operations, data input and output → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas.ipynb)
 * Introduction to Pandas II: Data frame inspection, data cleaning, and sorting →  [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_pandas_II.ipynb)
