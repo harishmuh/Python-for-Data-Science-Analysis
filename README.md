@@ -21,7 +21,7 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * Pandas I exercise: Dataframes, indexing, slicing, filtering →  [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_I_Exercise.ipynb)
 * Pandas II exercise: Sorting and aggregating → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_II_Exercise.ipynb)
 * Pandas exercise: Data wrangling and merging data →  [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_data_wrangling_merging_table.ipynb)
-* Pandas exercise - SF Salaries → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_SF_Salaries.ipynb)
+* Pandas exercise: Basic data exploration → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_SF_Salaries.ipynb)
 * Introduction to Regular Expressions (RegEx) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Regex.ipynb)
 
 ## Data Visualization with Matplotlib and Seaborn
