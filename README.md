@@ -20,6 +20,7 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * Introduction to Pandas III: Aggregation, GroupBy, reshaping, and joining data →  [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Pandas_III.ipynb)
 * Pandas I exercise: Dataframes, indexing, slicing, filtering →  [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_I_Exercise.ipynb)
 * Pandas II exercise: Sorting and aggregating → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_II_Exercise.ipynb)
+* Pandas III exercise: Joining data and basic data exploration → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_III_Exercise.ipynb)
 * Pandas exercise: Data wrangling and merging data →  [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_data_wrangling_merging_table.ipynb)
 * Pandas exercise: Basic data exploration → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_SF_Salaries.ipynb)
 * Introduction to Regular Expressions (RegEx) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Regex.ipynb)
