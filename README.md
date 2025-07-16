@@ -24,7 +24,8 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * Pandas exercise: Data wrangling and merging data →  [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_data_wrangling_merging_table.ipynb)
 * Pandas exercise: Basic data exploration → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_SF_Salaries.ipynb)
 * Pandas exercise: Basic data cleansing → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_Titanic_Basic_data_cleaning.ipynb)
-* Introduction to Regular Expressions (RegEx) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Regex.ipynb)
+
+
 
 ## Data Visualization with Matplotlib and Seaborn
 * Pandas (built-in) for data visualization → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_built_in_function_for_visualization.ipynb)
@@ -43,6 +44,9 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 ## Statistics
 * under construction (^_^)
 
+## Regular Expressions
+* Introduction to Regular Expressions (RegEx) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Regex.ipynb)
+* Regular Expressions exercise → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Regex_exercise.ipynb)
 
 ## Portfolio of data analytics projects
 * Client/customer-centric and marketing analytics → [Open portfolio](https://github.com/harishmuh/data_analyst_projects/tree/main)
