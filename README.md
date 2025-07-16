@@ -24,6 +24,7 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * Pandas exercise: Data wrangling and merging data →  [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_data_wrangling_merging_table.ipynb)
 * Pandas exercise: Basic data exploration → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_SF_Salaries.ipynb)
 * Pandas exercise: Basic data cleansing → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_Titanic_Basic_data_cleaning.ipynb)
+* Numpy and Pandas exercise → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_and_Numpy_exercise.ipynb)
 
 
 
