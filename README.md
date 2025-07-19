@@ -43,7 +43,7 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * Seaborn exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_exercises_and_solutions.ipynb)
 
 ## Statistics
-* under construction (^_^)
+* How to Calculate Parametric Statistical Hypothesis Tests in Python → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Parametric_statistic_in_Python.ipynb)
 
 ## Regular Expressions
 * Introduction to Regular Expressions (RegEx) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Regex.ipynb)
