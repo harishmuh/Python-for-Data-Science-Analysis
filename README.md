@@ -44,7 +44,7 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 
 ## Statistics
 * How to Calculate Parametric Statistical Hypothesis Tests in Python → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Parametric_statistic_in_Python.ipynb)
-
+* How to Calculate Nonparametric Statistical Hypothesis Tests in Python → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Nonparametric_Statistical_Hypothesis_Tests.ipynb)
 ## Regular Expressions
 * Introduction to Regular Expressions (RegEx) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Regex.ipynb)
 * Regular Expressions exercise → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Regex_exercise.ipynb)
