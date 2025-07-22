@@ -43,8 +43,10 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * Seaborn exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_exercises_and_solutions.ipynb)
 
 ## Statistics
+* Statistical descriptive and normal distribution → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistical_description_and_normality_test.ipynb)
 * How to Calculate Parametric Statistical Hypothesis Tests in Python → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Parametric_statistic_in_Python.ipynb)
 * How to Calculate Nonparametric Statistical Hypothesis Tests in Python → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Nonparametric_Statistical_Hypothesis_Tests.ipynb)
+
 ## Regular Expressions
 * Introduction to Regular Expressions (RegEx) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Regex.ipynb)
 * Regular Expressions exercise → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Regex_exercise.ipynb)
