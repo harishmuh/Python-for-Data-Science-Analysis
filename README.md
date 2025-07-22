@@ -44,6 +44,7 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 
 ## Statistics
 * Statistical descriptive and normal distribution → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistical_description_and_normality_test.ipynb)
+* Concept of probability and central limit theorem → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Probability_and_central_limit_theorem.ipynb)
 * How to Calculate Parametric Statistical Hypothesis Tests in Python → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Parametric_statistic_in_Python.ipynb)
 * How to Calculate Nonparametric Statistical Hypothesis Tests in Python → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Nonparametric_Statistical_Hypothesis_Tests.ipynb)
 
