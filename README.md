@@ -43,9 +43,9 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * Seaborn exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_exercises_and_solutions.ipynb)
 
 ## Statistics
-* Statistical descriptive and normal distribution → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistical_description_and_normality_test.ipynb)
+* Descriptive statistics and normal distribution → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistical_description_and_normality_test.ipynb)
 * Concept of probability and central limit theorem → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Probability_and_central_limit_theorem.ipynb)
-* Inferential statistics: Estimation point, confidence interval, and hypothesis tests (Parametric and Non-Parametric test)  → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Inferential_statistics_parametric_and_non_parametric_hypothesis_tests.ipynb)
+* Inferential statistics: Estimation point, confidence interval, and hypothesis tests (parametric and non-parametric) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Inferential_statistics_parametric_and_non_parametric_hypothesis_tests.ipynb)
 * How to Calculate Parametric Statistical Hypothesis Tests in Python → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Parametric_statistic_in_Python.ipynb)
 * How to Calculate Nonparametric Statistical Hypothesis Tests in Python → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Nonparametric_Statistical_Hypothesis_Tests.ipynb)
 
