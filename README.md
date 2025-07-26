@@ -30,7 +30,8 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 
 ## Data Visualization with Matplotlib and Seaborn
 * Pandas (built-in) for data visualization → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_built_in_function_for_visualization.ipynb)
-* Intro to data viz (Matplotlib fundamentals: Histogram, boxplot, lineplot, and areaplot) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Matplotlib_fundamental_histogram_boxplot_lineplot_area_plot.ipynb)
+* Intro to data viz I (Matplotlib fundamentals: Histogram, box plot, line plot, and area plot) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Matplotlib_fundamental_histogram_boxplot_lineplot_area_plot.ipynb)
+* Intro to data viz II (Matplotlib and seaborn fundamentals: scatter plot, bar plot, stacked bar, pie chart, heatmap) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Intro_to_data_viz_II_matplotlib_scatter_plot_bar_plot_stacked_bar_pie_chart_heatmap.ipynb)
 * Matplotlib VS Seaborn - How do you build a boxplot, violin plot, swarm plot, pairplot, etc? → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Visualization_Matplotlib_VS_Seaborn.ipynb)
 * Matplotlib overview and tutorial → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Matplotlib_tutorials.ipynb)
 * Matplotlib tutorial - advance topic → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Matplotlib_tutorial_advanced.ipynb)
