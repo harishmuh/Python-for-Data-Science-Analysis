@@ -48,7 +48,8 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * Descriptive statistics and normal distribution → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistical_description_and_normality_test.ipynb)
 * Descriptive statistics exercise → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Descriptive_Statistic__Exercise.ipynb)
 * Concept of probability and central limit theorem → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Probability_and_central_limit_theorem.ipynb)
-* Inferential statistics: Estimation point, confidence interval, and hypothesis tests (parametric and non-parametric) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Inferential_statistics_parametric_and_non_parametric_hypothesis_tests.ipynb)
+* Inferential statistics I: Estimation point, confidence interval, and hypothesis testing (parametric and non-parametric) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Inferential_statistics_parametric_and_non_parametric_hypothesis_tests.ipynb)
+* Inferential statistics II: Hypothesis testing for proportions, association tests, and correlation tests → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Inferential_statistics_II_Hypothesis_association_correlation_tests.ipynb)
 * How to Calculate Parametric Statistical Hypothesis Tests in Python → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Parametric_statistic_in_Python.ipynb)
 * How to Calculate Nonparametric Statistical Hypothesis Tests in Python → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Nonparametric_Statistical_Hypothesis_Tests.ipynb)
 
