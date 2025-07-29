@@ -52,7 +52,8 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * Inferential statistics II: Hypothesis testing for proportions, association tests, and correlation tests → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Inferential_statistics_II_Hypothesis_association_correlation_tests.ipynb)
 * How to Calculate Parametric Statistical Hypothesis Tests in Python → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Parametric_statistic_in_Python.ipynb)
 * How to Calculate Nonparametric Statistical Hypothesis Tests in Python → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Nonparametric_Statistical_Hypothesis_Tests.ipynb)
-* Inferential statistics exercises → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistics_inferential_exercise.ipynb)
+* Inferential statistic exercises → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistics_inferential_exercise.ipynb)
+* Descriptive and Inferential statistic exercises → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistical_last_exercise_DG.ipynb)
 
 ## Regular Expressions
 * Introduction to Regular Expressions (RegEx) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Regex.ipynb)
