@@ -43,6 +43,7 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * Seaborn regression plot → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_Regression_plot.ipynb)
 * Seaborn modifying style and color → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_modifying_style_and_color.ipynb)
 * Seaborn exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_exercises_and_solutions.ipynb)
+* Intro to Geo-map data visualization "Folium" [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Folium_intro.ipynb)
 
 ## Statistics
 * Descriptive statistics and normal distribution → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistical_description_and_normality_test.ipynb)
