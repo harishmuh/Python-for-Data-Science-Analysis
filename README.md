@@ -44,7 +44,7 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * Seaborn modifying style and color → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_modifying_style_and_color.ipynb)
 * Seaborn exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Seaborn_exercises_and_solutions.ipynb)
 * Intro to Geo-map data visualization "Folium" → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Folium_intro.ipynb)
-* Intro to cohort and RFM analysis → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Cohort_and_RFM_Analysis.ipynb)
+* Intro to cohort (data visualization) and RFM analysis → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Cohort_and_RFM_Analysis.ipynb)
 
 
 ## Statistics
