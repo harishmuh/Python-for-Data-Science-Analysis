@@ -47,7 +47,7 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * Folium exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Folium_exercise.ipynb)
 * Intro to cohort (data visualization) and RFM analysis → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Cohort_and_RFM_Analysis.ipynb)
 * Intro to plotly → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Intro_to_Plotly.ipynb)
-
+* Statistics and data visualization exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistics_and_data_visualization_exercises.ipynb)
 
 ## Statistics
 * Descriptive statistics and normal distribution → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistical_description_and_normality_test.ipynb)
@@ -59,6 +59,7 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * How to Calculate Nonparametric Statistical Hypothesis Tests in Python → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Nonparametric_Statistical_Hypothesis_Tests.ipynb)
 * Inferential statistic exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistics_inferential_exercise.ipynb)
 * Descriptive and Inferential statistic exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistical_last_exercise_DG.ipynb)
+
 
 ## Regular Expressions
 * Introduction to Regular Expressions (RegEx) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Regex.ipynb)
