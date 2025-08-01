@@ -46,6 +46,7 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * Intro to Geo-map data visualization "Folium" → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Folium_intro.ipynb)
 * Folium exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Folium_exercise.ipynb)
 * Intro to cohort (data visualization) and RFM analysis → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Cohort_and_RFM_Analysis.ipynb)
+* Cohort data visualization and RFM analysis exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Cohort_data_visualization_and_RFM_analysis_exercises.ipynb)
 * Intro to plotly → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Intro_to_Plotly.ipynb)
 * Statistics and data visualization exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistics_and_data_visualization_exercises.ipynb)
 
