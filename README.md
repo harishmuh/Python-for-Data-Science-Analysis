@@ -49,6 +49,7 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * Cohort data visualization and RFM analysis exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Cohort_data_visualization_and_RFM_analysis_exercises.ipynb)
 * Intro to plotly → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Intro_to_Plotly.ipynb)
 * Statistics and data visualization exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistics_and_data_visualization_exercises.ipynb)
+* Length Recency Frequency Monetary (LRFM) Analysis → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/LRFM_analysis_eng.ipynb) 
 
 ## Statistics
 * Descriptive statistics and normal distribution → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistical_description_and_normality_test.ipynb)
