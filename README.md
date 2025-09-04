@@ -61,10 +61,13 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * Inferential statistic exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistics_inferential_exercise.ipynb)
 * Descriptive and Inferential statistic exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Statistical_last_exercise_DG.ipynb)
 
-
 ## Regular Expressions
 * Introduction to Regular Expressions (RegEx) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Regex.ipynb)
 * Regular Expressions exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Regex_exercise.ipynb)
+
+## Extract Transform Load
+* REST API Tutorial - Getting (extracting) Pokémon data from PokeAPI  → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/REST_API_Tutorial_Getting_pokemon_data_from_PokeAPI.ipynb)
+* Connecting Python with BigQuery (under construction)
 
 ## Portfolio of data analytics projects
 * Client/customer-centric and marketing analytics → [Open portfolio](https://github.com/harishmuh/data_analyst_projects/tree/main)
