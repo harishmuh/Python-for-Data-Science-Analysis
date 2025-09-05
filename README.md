@@ -66,8 +66,9 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * Introduction to Regular Expressions (RegEx) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Introduction_to_Regex.ipynb)
 * Regular Expressions exercises and solutions → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Regex_exercise.ipynb)
 
-## Extract Transform Load
+## Extract Transform Load (ETL)
 * REST API Tutorial - Getting (extracting) Pokémon data from PokeAPI  → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/REST_API_Tutorial_Getting_pokemon_data_from_PokeAPI.ipynb)
+* ETL workflow (Data preparation/cleaning & integration): SQL to BigQuery - Purwadhika transaction & survey (dummy data) → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pipeline_Data_Cleaning_Dummy_Transaction_liveclass_eng.ipynb)
 * Connecting Python with BigQuery (under construction)
 
 ## Portfolio of data analytics projects
