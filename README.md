@@ -21,6 +21,7 @@ Welcome to my precious collection of tutorials for data analysis. This repositor
 * Pandas I exercise: Dataframes, indexing, slicing, filtering →  [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_I_Exercise.ipynb)
 * Pandas II exercise: Sorting and aggregating → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_II_Exercise.ipynb)
 * Pandas III exercise: Joining data and basic data exploration → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_III_Exercise.ipynb)
+* Mastering data analysis with pandas - from Coursera project network → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas%20for%20Data%20Analysis%20-%20basic%20tutorial%20for%20beginners.ipynb)
 * Pandas exercise: Data wrangling and merging data →  [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_data_wrangling_merging_table.ipynb)
 * Pandas exercise: Basic data exploration → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_exercise_SF_Salaries.ipynb)
 * Pandas exercise: Basic data cleansing → [(Click here)](https://github.com/harishmuh/Python-for-Data-Science-Analysis/blob/main/Pandas_Titanic_Basic_data_cleaning.ipynb)
