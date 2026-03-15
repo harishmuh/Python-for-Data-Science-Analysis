@@ -1,3 +1,5 @@
+![data analytic](https://www.revelis.eu/wp-content/uploads/2021/03/Natural-Language-Processing.jpg)
+
 # 🎓 Python for Data Analysis 
 
 Hello, data enthusiasts! 👋
